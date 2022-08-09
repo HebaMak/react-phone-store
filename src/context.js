@@ -1,4 +1,3 @@
-import { toHaveStyle } from '@testing-library/jest-dom/dist/matchers'
 import React, { Component } from 'react'
 import { storeProducts , detailProduct } from './data'
 
