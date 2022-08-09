@@ -1,0 +1,6 @@
+{
+  "main": "Cart.jsx",
+  "comment":" we use this file to use the Cart.jsx as a main file in the folder and help in importing it directly from its folder without using the name just like in case of using index.js"
+}
+
+
